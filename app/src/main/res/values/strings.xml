@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">BPAAP</string>
+    <string name="character_name">Nama Karakter</string>
+    <string name="description">Deskripsi</string>
+    <string name="profile">Straw Hat Pirates</string>
+    <string-array name="data_name">
+        <item>Brook</item>
+        <item>Tony Tony Chopper</item>
+        <item>Franky</item>
+        <item>Jinbe</item>
+        <item>Monkey D. Luffy</item>
+        <item>Nami</item>
+        <item>Robin</item>
+        <item>Sanji</item>
+        <item>Usopp</item>
+        <item>Roronoa Zoro</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Brook (ブルック Burukku) adalah seorang bajak laut dan musisi dari kelompok Bajak Laut Topi Jerami. Ia menjadi kru kesembilan yang bergabung setelah ditemukan tanpa sengaja di atas kapalnya yang karam di lautan misterius "Segitiga Florian". Impiannya adalah dapat bertemu Laboon kembali saat kru topi jerami selesai berlayar mengelilingi Grand Line. Ia berwujud seorang tengkorak yang hidup kembali berkat kekuasaan Buah Iblis miliknya "Yomi Yomi no Mi". Di atas kapal, Brook termasuk satu dari dua orang pendekar pedang selain Roronoa Zoro, dan memiliki nilai bounty sebesar Berry 33.000.000 saat baru bergabung. Setelah Bajak Laut Topi Jerami berhasil mengalahkan Keluarga Donquixote, Brook mendapat kenaikan bounty menjadi Berry 83.000.000.</item>
+        <item>Tony Tony Chopper adalah seorang dokter bajak laut dari kelompok Bajak Laut Topi Jerami. Ia aslinya seekor rusa yang dapat bertransformasi menjadi manusia setelah tanpa sengaja memakan Buah Iblis "Hito Hito no Mi". Oleh Pemerintah Dunia, ia disalahtafsirkan sebagai hewan peliharaan kru topi jerami dan hanya dikaruniai nilai bounty sebesar Berry 50 setelah peristiwa di Enies Lobby. Mimpinya bersama kru topi jerami yaitu dapat menyembuhkan segala penyakit di dunia termasuk dapat melihat luasnya dunia sesuai pesan Dr. Hiluluk.</item>
+        <item>"Cyborg" Franky ("鉄人"フランキー "Saibōgu"" Furankī?) adalah anggota kru Bajak Laut Topi Jerami yang bertugas sebagai mekanik kapal Thousand Sunny. Pertama kali muncul sebagai pemimpin Keluarga Franky, sebuah genk bawah tanah yang menguasai jalanan Water 7. Ia bernama asli "Cutty Flam" namun kemudian diganti karena permintaan Iceburg. Ia awalnya menjadi musuh kru topi jerami, namun berubah menjadi teman setelah perkembangan situasi memaksa mereka berbalik mendukung kru topi jerami. Setelah Franky mendapat bounty pertama, Keluarga Franky mendatangi kru topi jerami dan memohon agar merekrutnya. Ia menjadi anggota ke-8 kru topi jerami dan memiliki bounty sebesar Berry 44.000.000 setelah insiden di Enies Lobby. Setelah Bajak Laut Topi Jerami berhasil mengalahkan Keluarga Donquixote di Dressrosa, Franky mendapat kenaikan bounty menjadi Berry 94.000.000. Mimpinya adalah membuat sebuah kapal yang mampu mengarungi segala jenis lautan.</item>
+        <item>Jinbe ( ジンベエ Jinbē? ) adalah seorang mermen spesies hiu paus, mantan Shichibukai dan kapten kedua kelompok Bajak Laut Matahari setelah Fisher Tiger. Gelar Shichibukainya dicabut karena menolak ikut serta dalam perang melawan Shirohige, serta secara terang-terangan membantu Monkey D. Luffy dan Bajak Laut Whitebeard. Namanya disebutkan pertama kali oleh Yosaku setelah Cerita Baratie Chapter 69 sebagai seorang Shichibukai, namun penampakannya baru muncul dalam Cerita Impel Down Chapter 528 sebagai Shichibukai terakhir yang diperkenalkan.</item>
+        <item>Monkey D. Luffy, juga dikenal sebagai "Luffy Topi Jerami" dan umumnya sebagai "Topi Jerami", adalah pendiri dan kapten dari Bajak Laut Topi Jerami yang semakin terkenal dan kuat, serta yang paling kuat dari petarung topnya. Dia ingin menemukan harta karun legendaris yang ditinggalkan oleh mendiang Gol D. Roger dan dengan demikian menjadi Raja Bajak Laut, yang akan membantu memfasilitasi mimpinya yang tidak diketahui yang dia ceritakan hanya kepada Shanks, saudara laki-lakinya, dan krunya. Dia percaya bahwa menjadi Raja Bajak Laut berarti memiliki kebebasan terbesar di dunia.</item>
+        <item>Nami si "Kucing Pencuri" (ナミ Nami) adalah seorang bajak laut dan navigator dari kelompok Bajak Laut Topi Jerami. Dia di besarkan di Desa Cocoyasi di East Blue dan menjadi anggota ketiga kru topi jerami setelah kekalahan Arlong. Sebelum bergabung, Nami dikenal sebagai pencuri yang ulung. Impiannya adalah untuk dapat memetakan seluruh dunia. Dia memiliki nilai bounty sebesar Berry 16.000.000 setelah peristiwa di Enies Lobby. Setelah Bajak Laut Topi Jerami berhasil mengalahkan Keluarga Donquixote, Nami mendapat kenaikan bounty menjadi Berry 66.000.000.</item>
+        <item>Nico Robin (ニコ・ロビン Niko Robin?) adalah mantan Baroque Works yang bergabung menjadi anggota kru ketujuh kelompok Bajak Laut Topi Jerami. Ia seorang arkeolog dari pulau Ohara, dan menjadi buronan pemerintah sejak berumur 8 tahun berkat kemampuannya membaca poneglyph dengan bounty sebesar Berry 79.000.000. Impian terbesar dalam hidup Robin yakni menemukan Rio Poneglyph yang mencatat "Sejarah Sebenarnya" dari masa yang hilang. Setelah insiden di enies lobby, bountynya meningkat menjadi Berry 80.000.000. Setelah Bajak Laut Topi Jerami berhasil mengalahkan Keluarga Donquixote, Robin mendapat kenaikan bounty menjadi Berry 130.000.000. Ia memiliki kekuatan Buah Iblis "Hana Hana no Mi", yang memberinya kemampuan menggandakan bagian tubuh ditempat lain. Setelah aksi Bartholomew Kuma memisahkan kru topi jerami di Sabaody, Robin diketahui tiba di Tequila Wolf di East Blue dan ditangkap pihak pemerintah. Tentara Revolusioner kemudian muncul membebaskan Robin dan mengajaknya pergi menemui pimpinan revolusioner; Monkey D. Dragon di Baltigo.</item>
+        <item>"Kaki Hitam" Sanji (黒脚・サンジ Kuro ashi no Sanji?) adalah seorang bajak laut merangkap koki dari kelompok Bajak Laut Topi Jerami. Ia merupakan anggota kelima yang bergabung menjadi anggota kru saat kru topi jerami berlabuh di restoran terapung Baratie. Meski bergabung dan dibesarkan di East Blue, Sanji aslinya dilahirkan di North Blue sehingga ia adalah anggota kru topi jerami pertama yang tidak berasal dari East Blue. Impian Sanji adalah untuk dapat menemukan "All Blue", sebuah lautan dimana East Blue, West Blue, North Blue dan South Blue saling bertemu dan menghasilkan bahan-bahan masakan terbaik yang merupakan surga bagi para koki. Setelah insiden di Dressrosa, ia memiliki nilai bounty sebesar Berry 177.000.000. Setelah insiden di Whole Cake Island, ia memiliki nilai bounty sebesar Berry 330.000.000.</item>
+        <item>\'\"God\" Usopp\' adalah Penembak Jitu dari Bajak Laut Topi Jerami dan mantan Kapten dari Bajak Laut Usopp. Ia dilahirkan di Desa Syrup dan pertama kali disebutkan oleh Yasopp, ayahnya. Meskipun pengecut yang normal, Usopp bermimpi menjadi seorang pejuang pemberani laut seperti ayahnya dan hidup setiap hari dalam mengejar hidup sampai mimpi ini.</item>
+        <item>Roronoa Zoro juga dikenal sebagai "Pemburu Bajak Laut" Zoro adalah seorang bajak laut dan ahli pedang dari kelompok Bajak Laut Topi Jerami dan merupakan salah satu karakter utama dalam cerita One Piece. Ia adalah orang pertama yang ditawari Monkey D. Luffy untuk bergabung dengannya. Impiannya adalah menjadi pendekar pedang nomor satu di dunia dengan mengalahkan Shichibukai Dracule Mihawk. Zoro termasuk ke dalam generasi bajak laut yang dilabeli sebagai "Sebelas Supernova", sebelas bajak laut rookie yang memiliki nilai bounty di atas Berry100.000.000 saat mencapai Red Line, dengan bounty sebesar Berry120.000.000. Setelah Bajak Laut Topi Jerami berhasil mengalahkan Keluarga Donquixote di Dressrosa, Zoro mendapat kenaikan bounty menjadi Berry 320.000.000</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/brook</item>
+        <item>@drawable/chopper</item>
+        <item>@drawable/franky</item>
+        <item>@drawable/jinbe</item>
+        <item>@drawable/luffy</item>
+        <item>@drawable/nami</item>
+        <item>@drawable/robin</item>
+        <item>@drawable/sanji</item>
+        <item>@drawable/usopp</item>
+        <item>@drawable/zoro</item>
+    </integer-array>
+    <string-array name="data_birthday">
+        <item>April 3rd</item>
+        <item>December 24th</item>
+        <item>March 9th</item>
+        <item>April 2nd</item>
+        <item>May 5th</item>
+        <item>July 3rd</item>
+        <item>February 6th</item>
+        <item>March 2nd</item>
+        <item>April 1st</item>
+        <item>November 11th</item>
+    </string-array>
+    <string-array name="data_bounty">
+        <item>383,000,000</item>
+        <item>1,000</item>
+        <item>394,000,000</item>
+        <item>1,100,000,000</item>
+        <item>3,000,000,000</item>
+        <item>366,000,000</item>
+        <item>930,000,000</item>
+        <item>1,032,000,000</item>
+        <item>500,000,000</item>
+        <item>1,111,000,000</item>
+    </string-array>
+</resources>
